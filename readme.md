@@ -7,3 +7,5 @@
     
 3.  下載並安裝[Mircrosoft Sliverlight](https://github.com/wildboy2arthur/excelPowerViewNotWork/blob/main/Silverlight_x64.exe)
 4.  下載並執行註冊檔 [ActiveSilver.reg](https://github.com/wildboy2arthur/excelPowerViewNotWork/blob/main/ActiveSilver.reg)
+
+做完以上程序, 應該就可以在Excel 2016以後版本執行Power View.
