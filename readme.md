@@ -5,5 +5,5 @@
     * 勾選Power Pivot及其他power系列增益集方塊，然後按一下 [確定]。
 2.  按照[此網頁](https://www.itread01.com/content/1539889667.html)說明操作, 把Power View加入到"插入"頁簽中
     
-3.  下載並安裝Mircrosoft Sliverlight
-4.  下載並執行註冊檔 ActiveSilver.reg
+3.  下載並安裝[Mircrosoft Sliverlight]()
+4.  下載並執行註冊檔 [ActiveSilver.reg](https://github.com/wildboy2arthur/excelPowerViewNotWork/blob/main/ActiveSilver.reg)
